@@ -1,2 +1,0 @@
-# dicom
-Test For WebDicom
